@@ -9,7 +9,7 @@ series_order: 1
 showAuthor: true
 showAuthorBadges: false
 authors:
-  - "elizabeth_aji"
+  - "neehara_prajesh"
 ---
 
 ## Neuralink's Mind-Blowing Demo: Paralyzed Patient Masters Online Chess with Brain Chip
